@@ -1007,5 +1007,5 @@ fn test_safe_reports() {
         ],
     );
 
-    assert_eq!(count, 287);
+    assert_eq!(count, 388);
 }
